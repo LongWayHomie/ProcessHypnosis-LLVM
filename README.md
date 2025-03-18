@@ -21,6 +21,9 @@ With all the evasions listed below, I was able to bypass most antivirus solution
 8.  **API hashing** using the **Djb2 algorithm**,
 9.  **Function call obfuscation**.
 
+## Results from Kleenscan
+![screenshot](images/kleenscan.png)
+
 ## Flow
 The Process Hypnosis loader works like on chart below:
 ```mermaid
